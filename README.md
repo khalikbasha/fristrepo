@@ -1,2 +1,2 @@
 # fristrepo
-this my fristrepo
+this my fristrepo and frist comit
