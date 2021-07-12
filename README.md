@@ -1,0 +1,2 @@
+# fristrepo
+this my fristrepo
